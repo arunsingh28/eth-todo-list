@@ -4,6 +4,7 @@ Blockchain based todo list
 ## Blockchain framwork 
 
 [Truffle](https://www.trufflesuite.com/)
+[Ganache](https://www.trufflesuite.com/ganache)
 
 ## truffle commands
 
