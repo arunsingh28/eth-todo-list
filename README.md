@@ -9,6 +9,7 @@ Blockchain based todo list
 
 |     commands    	|                   use                   	|
 |:---------------:	|:---------------------------------------:	|
+| truffle compile   |          complile truffle code            |
 | truffle migrate 	| to make transaction b/w ganache and eth 	|
 | truffle console 	|      truffle development terminal       	|
 |   truffle init  	|        setup new truffle project        	|
