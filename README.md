@@ -1,4 +1,4 @@
-# eth-todo-list
+# Dapp todo-list
 Blockchain based todo list
 
 ## Blockchain framwork 
