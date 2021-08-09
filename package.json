@@ -9,7 +9,7 @@
     "scripts": {
         "dev": "lite-server"
     },
-    "author": "gregory@dappuniversity.com",
+    "author": "arunsingh28",
     "license": "ISC",
     "devDependencies": {
         "bootstrap": "4.1.3",
